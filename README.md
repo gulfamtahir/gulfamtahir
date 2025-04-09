@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gulfam Tahir</h1>
 <h3 align="center">A passionate AI Engineer from Germany</h3>
 
-- 🔭 I’m currently working on **Computer Vision Projects**
-
-- 🌱 I’m currently learning **Generative AI**
+- 🔭 I’m currently working on **Agentic AI Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gulfamtahir?tab=repositories](https://github.com/gulfamtahir?tab=repositories)
 
