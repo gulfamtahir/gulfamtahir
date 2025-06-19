@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gulfam Tahir</h1>
 <h3 align="center">A passionate AI Engineer from Germany</h3>
 
+
 - 🔭 I’m currently working on **Agentic AI Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gulfamtahir?tab=repositories](https://github.com/gulfamtahir?tab=repositories)
@@ -19,6 +20,8 @@
 
 
 
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gulfamtahir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/gulfamtahir/count.svg" alt="Profile Views" />
+</p>
